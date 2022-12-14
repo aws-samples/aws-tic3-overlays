@@ -8,10 +8,10 @@ applications.
 
 AWS will continue to update this repo with new overlays and as new AWS services and features are released:
 
-- TIC Service mapping 
-  * This XLS file includes a mapping of TIC-3 Security workbook requirements and PEP controls to AWS services and also overlays they against NIST CSF, NIST 800-53r4 and NIST 800-53r5
-
 ## Current Overlays 
+
+### TIC Service mapping 
+  * This [XLS file ](/Overlay-Documents/TIC%20service%20mappingDownloads.xlsx) includes a mapping of TIC-3 Security workbook requirements and PEP controls to AWS services and also overlays them against NIST CSF, NIST 800-53r4 and NIST 800-53r5
 
 ### N-Tier 
 - [This overlay](/Overlay-Documents/n-tier_Overlay.pdf) demonstrates how TIC security capabilities are achieved in the case of an N-tier (typically a 3-tier) web application.
